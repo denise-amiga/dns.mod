@@ -1,0 +1,8 @@
+.bmx
+*.[ai]
+*.i2
+*.exe
+!gmp.mod/lib32/libgmp.a
+!gmp.mod/lib64/libgmp.a
+!bigz.mod/lib32/libbigz.a
+!bigz.mod/lib64/libbigz.a
